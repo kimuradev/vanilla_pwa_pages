@@ -1,0 +1,20 @@
+html,
+body {
+  height: 100%;
+  font-family: sans-serif;
+  margin: 0;
+}
+.flex-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.row {
+  width: auto;
+}
+.flex-item {
+  font-weight: bold;
+  font-size: 3rem;
+  text-align: center;
+}
